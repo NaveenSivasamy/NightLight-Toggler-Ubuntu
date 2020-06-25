@@ -8,5 +8,5 @@ Terminal=false
 Exec=$(pwd)/nightLightToggler.sh
 Name=Night Light Toggler
 Icon=$(pwd)/icon.png
-Comment=Author - Naveen Siva<naveensiva.ns@outlook.com>" > /usr/share/applications/NightLightToggle.desktop
+Comment=Author - Naveen Siva<https://github.com/NaveenSivasamy>" > /usr/share/applications/NightLightToggle.desktop
 
